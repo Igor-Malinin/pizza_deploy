@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as e,a as c}from"./index-DilI60PY.js";const o={},n={class:"contacts"},a=c("div",{class:"container"},[c("div",{class:"contacts__view-inner"}," Contacts ")],-1),_=[a];function r(i,d){return e(),t("div",n,_)}const f=s(o,[["render",r]]);export{f as default};
