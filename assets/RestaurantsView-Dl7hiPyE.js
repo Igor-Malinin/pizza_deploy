@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as s}from"./index-BPCn8oSY.js";const c={},n={class:"restaurants"},r=s("div",{class:"container"},[s("div",{class:"restaurants__view-inner"}," Restaurants ")],-1),o=[r];function _(i,d){return a(),t("div",n,o)}const u=e(c,[["render",_]]);export{u as default};
